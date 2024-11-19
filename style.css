@@ -1,0 +1,8 @@
+div {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    list-style-type: none;  
+}
